@@ -68,8 +68,10 @@ A classe `Funcionario` permite:
 ## 📂 Estrutura do Projeto
 ```bash
 
-src/
-└── trabalho/
+skybooker
+└── App.java
+├── estados.txt
+├── pesos-estado.jpg
 ├── menu/
 │    └── Menu.java
 ├── passageiro/
@@ -92,18 +94,18 @@ src/
 
 ### **1. Clonar o repositório**
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/Ayshathayna/skybooker.git
 ```
 ### 2. Abrir no terminal e compilar
 Dentro da pasta src:
 
 ```bash
-javac trabalho/menu/Menu.java
+javac skybooker/App.java
 ```
 
 ### 3. Executar
 ```bash
-java trabalho.menu.Menu
+java skybooker.App
 ```
 
 ## 🧩 Detalhamento das Classes
